@@ -1,0 +1,26 @@
+{
+  "name": "hacker-next",
+  "version": "1.0.0",
+  "description": "Hacker News clone made with Next js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgam/NextAppProgressive.git"
+  },
+  "author": "Jimmy Gam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgam/NextAppProgressive/issues"
+  },
+  "homepage": "https://github.com/jgam/NextAppProgressive#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
